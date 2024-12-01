@@ -1,0 +1,5 @@
+build file :
+
+g++ -o a.exe main.cpp graph.cpp
+
+nama objeknya a, run file ketik a aja
